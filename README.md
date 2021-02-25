@@ -3,9 +3,9 @@ Build With The Help Of Python Django FrameWork
 
 Installation
 ------------
-Required to install all the packages specified in requirement.txt
+Required to install all the packages specified in requirements.txt
 
-Need Python Runtime
+Need Python Runtime (version 3 above)
 
 Need to configure the database configuration in setting.py
 
